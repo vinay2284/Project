@@ -1,0 +1,2 @@
+Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. Basic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium. 
+Supervised Learning Techniques(Gaussian Naive Bayes, Logistic Regression) are used to train this model with the Review dataset. This model tokenize and lemmatize reviews and classifies them into 5 ratingss(1-5). This model also displays Accuracy Score and Confusion Matrix.
